@@ -4,3 +4,7 @@ client/node_modules/*
 .venv
 .venv/*
 .DS_Store
+.env
+*.log
+*.pyc
+.git/
