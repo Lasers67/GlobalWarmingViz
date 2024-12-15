@@ -3,3 +3,4 @@ app/node_modules/*
 client/node_modules/*
 .venv
 .venv/*
+.DS_Store

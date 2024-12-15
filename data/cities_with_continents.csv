@@ -1,0 +1,101 @@
+city_name,latitude,longitude,continent
+Abu Dhabi,24.466669,54.366669,Asia
+Amsterdam,52.374031,4.88969,Europe
+Athens,37.97945,23.716221,Europe
+Atlanta,33.749001,-84.387978,North America
+Auckland,-36.85582,174.743042,Oceania
+Austin,34.998421,-91.983757,North America
+Bangkok,13.87719,100.71991,Asia
+Barcelona,41.38879,2.15899,Europe
+Beijing,39.907501,116.397232,Asia
+Berlin,54.033329,10.45,Europe
+Bilbao,43.262711,-2.92528,Europe
+Birmingham,52.481419,-1.89983,Europe
+Bogota,4.624335,-74.063644,North America
+Boston,30.791861,-83.789886,North America
+Brisbane,-27.467939,153.028091,Oceania
+Brussels,50.850449,4.34878,Europe
+Bucharest,44.432251,26.10626,Europe
+Budapest,47.497913,19.040236,Europe
+Buenos Aires,-34.603722,-58.381592,South America
+Busan,35.133331,129.050003,Asia
+Calgary,51.05011,-114.085289,North America
+Charlotte,35.227089,-80.843132,North America
+Chicago,41.850029,-87.650047,North America
+Baltimore,39.290379,-76.61219,North America
+London,51.512791,-0.09184,Europe
+Cologne,50.935173,6.953101,Europe
+Copenhagen,55.675941,12.56553,Europe
+Dallas,33.92371,-84.840767,North America
+Denver,35.53125,-81.0298,North America
+Doha,25.286667,51.533333,Asia
+Dubai,25.258169,55.304722,Asia
+Dublin,53.34399,-6.26719,Europe
+Dusseldorf,51.233334,6.783333,Europe
+Frankfurt,50.110924,8.682127,Europe
+Glasgow,55.860916,-4.251433,Europe
+Gothenburg,57.70887,11.97456,Europe
+Hamburg,53.551086,9.993682,Europe
+Hanoi,21.028511,105.804817,Asia
+Helsinki,60.16952,24.93545,Europe
+Hong Kong,22.285521,114.157692,Asia
+Houston,37.32616,-91.955994,North America
+Istanbul,41.01384,28.949659,Europe
+Krakow,50.049683,19.944544,Europe
+Kuwait City,29.36972,47.978329,Asia
+Las Vegas,35.593929,-105.2239,North America
+Leeds,53.796478,-1.54785,Europe
+Lisbon,38.716671,-9.13333,Europe
+Liverpool,53.41058,-2.97794,Europe
+Los Angeles,34.052231,-118.243683,North America
+Lyon,45.748459,4.84671,Europe
+Madrid,40.4165,-3.70256,Europe
+Manchester,53.480949,-2.23743,Europe
+Melbourne,-37.813999,144.963318,Oceania
+Mexico City,19.428471,-99.127663,North America
+Miami,25.774269,-80.193657,North America
+Milan,45.464272,9.18951,Europe
+Minneapolis,39.121941,-97.706703,North America
+Minsk,53.900002,27.566668,Europe
+Montreal,45.508888,-73.561668,North America
+Munich,48.137428,11.57549,Europe
+Muscat,23.613871,58.592201,Asia
+Nagoya,35.181469,136.906403,Asia
+Naples,40.833328,14.25,Europe
+Nashville,33.945671,-93.84713,North America
+New Orleans,29.954651,-90.075073,North America
+New York City,40.714272,-74.005966,North America
+Orlando,28.53834,-81.379242,North America
+Osaka,35.950001,137.266663,Asia
+Oslo,59.912731,10.74609,Europe
+Ottawa,45.411171,-75.69812,North America
+Paris,48.853401,2.3486,Europe
+Philadelphia,32.771519,-89.11673,North America
+Portland,36.581711,-86.51638,North America
+Prague,50.088039,14.42076,Europe
+Rio de Janeiro,-22.908333,-43.196388,South America
+Riyadh,24.687731,46.721851,Asia
+Rome,41.894741,12.4839,Europe
+Rotterdam,51.922501,4.47917,Europe
+San Diego,27.76391,-98.238899,North America
+San Francisco,37.774929,-122.419418,North America
+San Jose,37.33939,-121.894958,North America
+Santiago,-33.45694,-70.64827,South America
+Sapporo,43.064171,141.346939,Asia
+Seattle,47.606209,-122.332069,North America
+Seoul,37.583328,127.0,Asia
+Shanghai,31.222219,121.458061,Asia
+Singapore,1.28967,103.850067,Asia
+Stockholm,59.334591,18.06324,Europe
+Sydney,-33.867851,151.207321,Oceania
+São Paulo,-23.533773,-46.62529,South America
+Taipei,24.94702,121.581749,Asia
+Tel Aviv,32.080879,34.780571,Asia
+Tokyo,35.689499,139.691711,Asia
+Toronto,43.700111,-79.416298,North America
+Valencia,39.469749,-0.37739,Europe
+Vancouver,49.24966,-123.119339,North America
+Vienna,48.208488,16.37208,Europe
+Warsaw,52.229771,21.01178,Europe
+Washington,33.73679,-82.739311,North America
+Zurich,47.3769,8.5417,Europe
