@@ -83,6 +83,7 @@ z_min_max = {
 
 
 app.layout = html.Div([
+    html.H1("GLOBAL WARMING DATASET"),
     html.Div([
     dcc.Graph(id='subplot-plot')]),
     html.Div([
@@ -290,7 +291,7 @@ def update_subplot(city):
         text=city_data['mean_annual_temperature'],
         textposition='top center',
         textfont=dict(
-        size=8,  # Set the desired font size
+        size=10,  # Set the desired font size
         color='black'  # Optional: change text color for better visibility,
     ),
     showlegend=False
