@@ -22,3 +22,5 @@ pip install pandas plotly dash numpy
 ```bash
 cd src && python3 main.py
 ```
+
+The dashboard will be available at http://127.0.0.1:8050/
